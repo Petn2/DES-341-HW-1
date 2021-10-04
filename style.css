@@ -1,0 +1,9 @@
+img{width: 500px}
+h1{color: cornflowerblue}
+p{color:cornflowerblue}
+body{background-color: rgb(241, 233, 221)}
+h1{font-family: 'Franklin Gothic bold'}
+p{font-family: 'Franklin Gothic Medium'}
+img{display: block; margin-left: auto; margin-right: auto; width: 40%;}
+h1{text-align: center;}
+p{text-align: center;}
